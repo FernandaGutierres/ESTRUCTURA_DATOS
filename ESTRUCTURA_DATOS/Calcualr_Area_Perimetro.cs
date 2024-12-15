@@ -39,7 +39,7 @@ namespace Calcularfigurasbasicas
     }
 
 
-    class Program
+    class Calcualr_Area_Perimetro
     {
         static void Main(string[] args)
         {
